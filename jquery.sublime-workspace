@@ -1,0 +1,425 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"fon",
+				"font-style\tproperty"
+			],
+			[
+				"f",
+				"font-size\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"tra",
+				"translate"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"sli",
+				"slider"
+			],
+			[
+				"i",
+				"italic\tfont-style"
+			],
+			[
+				"sp",
+				"space-around\tjustify-content"
+			],
+			[
+				"flex-",
+				"flex-direction\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"ove",
+				"overflow-x\tproperty"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"b",
+				"background\tproperty"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"ma",
+				"max-width\tproperty"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"m",
+				"margin\tproperty"
+			],
+			[
+				"bo",
+				"box-sizing\tproperty"
+			],
+			[
+				"r",
+				"rgba()\tbackground"
+			],
+			[
+				"a",
+				"auto\tmargin"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Usuario/Documents/GitHub/miniproyecto/index.html",
+			"settings":
+			{
+				"buffer_size": 658,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "jquery.js",
+			"settings":
+			{
+				"buffer_size": 167,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Usuario/Desktop/Template website/index.html",
+			"settings":
+			{
+				"buffer_size": 8309,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Usuario/Documents/GitHub/miniproyecto",
+		"/C/Users/Usuario/Documents/GitHub/miniproyecto/css"
+	],
+	"file_history":
+	[
+		"/C/Users/Usuario/Desktop/Template website/js/jquery.js",
+		"/C/Users/Usuario/Documents/GitHub/miniproyecto/estilos.css",
+		"/C/Users/Usuario/Documents/GitHub/landingPag/index.html",
+		"/C/Users/Usuario/Documents/GitHub/landingPag/js/java.js",
+		"/C/Users/Usuario/Documents/GitHub/landingPag/css/style.css",
+		"/C/Users/Usuario/Documents/GitHub/miniproyecto/index.html",
+		"/C/Users/Usuario/Documents/GitHub/landingPag/sss/images/arr.png",
+		"/C/Users/Usuario/Documents/GitHub/landingPag/js/.js",
+		"/C/Users/Usuario/Documents/GitHub/landingPag/js/app.js.txt",
+		"/C/Users/Usuario/Documents/GitHub/landingPag/css/style"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"slider-text"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Usuario/Documents/GitHub/miniproyecto/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 658,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								496,
+								496
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "jquery.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 167,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Usuario/Desktop/Template website/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8309,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								414,
+								616
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "jquery.js",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 173.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
